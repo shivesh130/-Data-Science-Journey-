@@ -1,0 +1,24 @@
+Rules for declaring identifiers in Python
+
+1. Must start with a letter (a–z, A–Z) or underscore (_)
+✔️ valid: name, _value
+❌ invalid: 1name
+2. Cannot start with a digit
+❌ 2num = 10 (wrong)
+3. Can contain letters, digits, and underscores
+✔️ student1, total_marks, data_2025
+4. No special characters allowed
+❌ total$, marks@, user-name
+5. Case-sensitive
+age, Age, and AGE are all different identifiers
+
+5. Cannot use Python keywords (reserved words)
+❌ if, else, for, class, True, etc.
+✔️ You can check keywords using:
+
+import keyword
+print(keyword.kwlist)
+
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+In case of python PVM provides some constant values to reserved keyword like True,False and none that by this there are called resvred keyword litetals in python
