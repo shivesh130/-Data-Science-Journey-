@@ -1,3 +1,11 @@
 what is ER Diagram?
 An ER Diagram is used in database Management System to design and visualize a database structure.
 
+There are three types
+1. Entity     2. Attribute    3. Relationship
+
+
+Entity:- An Entity is an object.It reprsented as rectangle in ER Diagram.
+
+Entity are 2 types   
+1. strong Entity         2. weak Entity
