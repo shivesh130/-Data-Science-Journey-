@@ -2,10 +2,39 @@ what is ER Diagram?
 An ER Diagram is used in database Management System to design and visualize a database structure.
 
 There are three types
-1. Entity     2. Attribute    3. Relationship
+1. Entity     2. Attribute    3. Relationship/mapping/caridinality
 
 
 Entity:- An Entity is an object.It reprsented as rectangle in ER Diagram.
 
 Entity are 2 types   
 1. strong Entity         2. weak Entity
+
+Weak Entity:- an Entity that cannot be unqualiy dentified by its own attribute and define upon another entity is called weak entity.It is representd as double-rectangle. 
+
+Attribute:- An attribute is an property of the entity. It is reprsented by ellipse.
+
+There are four types
+1. key   2. Multivalue    3. dervide   4. composite
+
+key attribute:-  A key attribute can unquely , identity an entity from an Er diagram. it reprsented as ______.
+
+Multivalue attribute:- An attribute that can hold Multivalue is known as Multivalue attribute.It is reprsented by double ellipse.
+
+Derived attribute:- An attribute that us derived from another attribute is known as derived attribute.It is reprsented by dash ellipse.
+
+composite attribute:- An attributeis the combination of multiple attributeis known as composite attribute, It is representd by Dashed ellipse.
+
+Mapping :- caridinality define the numerical attribute of the Relationship between two entity.
+
+There are four types
+1. one to one    2. one to many  3. many to one   4. Many to Many
+
+one to one :- when a single instance of an entity is asscoiated with single instance of another entity then is called onr to one Relationship.
+
+one to many :- when a single instance of an entity is asscoiated with more than one instance of another entity then it is called many to one Relationship.  
+
+Many to one:- when more than one instance of an entity are associated with a single instance of another entity, then it is called many to one Relationship.
+
+Many to many:- when more than one instance of an entity are associated with more than  instance of another entity, then it is called many to many Relationship.
+
