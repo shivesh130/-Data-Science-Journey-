@@ -31,6 +31,7 @@ There are four types
 1. one to one    2. one to many  3. many to one   4. Many to Many
 
 one to one :- when a single instance of an entity is asscoiated with single instance of another entity then is called onr to one Relationship.
+example:-
 
 one to many :- when a single instance of an entity is asscoiated with more than one instance of another entity then it is called many to one Relationship.  
 
