@@ -34,8 +34,8 @@ one to one :- when a single instance of an entity is asscoiated with single inst
 example:-
 
 one to many :- when a single instance of an entity is asscoiated with more than one instance of another entity then it is called many to one Relationship.  
-
+example:-
 Many to one:- when more than one instance of an entity are associated with a single instance of another entity, then it is called many to one Relationship.
-
+example:-
 Many to many:- when more than one instance of an entity are associated with more than  instance of another entity, then it is called many to many Relationship.
 
