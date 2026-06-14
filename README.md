@@ -26,19 +26,20 @@ This repository is a structured collection of my learning, practice, and project
 Data-Science-Journey/
 │
 ├── 📁 01-Python-Basics
-├── 📁 02-Data-Analysis
-├── 📁 03-Data-Visualization
-├── 📁 04-Statistics
-├── 📁 05-MySQL
+├── 📁 02-Numpy
+├── 📁 03-Data-Analysis
+├── 📁 04-Data-Visualization
+├── 📁 05-Statistics
+├── 📁 06-MySQL
 │   ├── basics.sql
 │   ├── joins.sql
 │   ├── groupby.sql
 │   ├── subqueries.sql
 │   └── practice-questions.sql
 │
-├── 📁 06-Machine-Learning
-├── 📁 07-Projects
-├── 📁 08-Datasets
+├── 📁 07-Machine-Learning
+├── 📁 08-Projects
+├── 📁 09-Datasets
 │
 ├── 📄 README.md
 └── requirements.txt
