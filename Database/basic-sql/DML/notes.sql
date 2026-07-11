@@ -1,5 +1,5 @@
 -- 🔹 What is DML in MySQL?
--- Definition: DML is a subset of SQL used to manipulate data stored in tables.
+-- Definition: DML(data manipulation language) is a subset of SQL used to manipulate data stored in tables.
 
 -- Scope: It affects the rows of data, not the schema (structure).
 
