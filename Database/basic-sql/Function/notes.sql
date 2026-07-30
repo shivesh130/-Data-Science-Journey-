@@ -14,6 +14,7 @@ select upper("mysql");    --MYSQL
 select lower("MYSQL");         ----mysql
 
 -- Date/Time
+
 SELECT NOW();          -- Current date & time
 SELECT DATEDIFF('2026-07-15', '2026-07-12'); -- 3
 select CURDATE()               -----current date ONLY
