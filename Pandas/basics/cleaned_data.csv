@@ -1,201 +1,200 @@
-OrderID,Customer,Product,Category,Price,City
-1001,Liam,Mouse,Electronics,700,Chennai
-1002,Charlie,Shoes,Fashion,2500,Delhi
-1003,Jack,Backpack,Fashion,2200,Jaipur
-1004,Bob,Laptop,Electronics,55000,Pune
-1005,Jack,Shoes,Fashion,2500,Kolkata
-1006,Liam,Backpack,Fashion,2200,Bengaluru
-1007,Henry,Headphones,Electronics,1800,Chennai
-1008,Liam,Laptop,Electronics,55000,Jaipur
-1009,Charlie,Book,Books,450,Pune
-1010,Bob,Book,Books,450,Jaipur
-1011,Noah,Mouse,Electronics,700,Hyderabad
-1012,Mia,Water Bottle,Home,300,Kolkata
-1013,Bob,Coffee Mug,Home,350,Jaipur
-1014,Eva,Mouse,Electronics,700,Hyderabad
-1015,Liam,Water Bottle,Home,300,Delhi
-1016,Mia,Laptop,Electronics,55000,Chennai
-1017,Noah,Mouse,Electronics,700,Delhi
-1018,Henry,Headphones,Electronics,1800,Hyderabad
-1019,Frank,Keyboard,Electronics,1500,Pune
-1020,Jack,T-Shirt,Fashion,800,Mumbai
-1021,Charlie,Backpack,Fashion,2200,Lucknow
-1022,Olivia,Headphones,Electronics,1800,Bengaluru
-1023,Noah,Shoes,Fashion,2500,Kolkata
-1024,Mia,Shoes,Fashion,2500,Hyderabad
-1025,Bob,Headphones,Electronics,1800,Pune
-1026,David,Water Bottle,Home,300,Lucknow
-1027,Charlie,Headphones,Electronics,1800,Chennai
-1028,Liam,Keyboard,Electronics,1500,Bengaluru
-1029,Liam,Backpack,Fashion,2200,Jaipur
-1030,Frank,Water Bottle,Home,300,Pune
-1031,Henry,Keyboard,Electronics,1500,Delhi
-1032,Charlie,Laptop,Electronics,55000,Mumbai
-1033,Bob,Headphones,Electronics,1800,Jaipur
-1034,Henry,Headphones,Electronics,1800,Bengaluru
-1035,Noah,T-Shirt,Fashion,800,Kolkata
-1036,Mia,Mouse,Electronics,700,Chennai
-1037,Eva,Book,Books,450,Jaipur
-1038,Alice,Keyboard,Electronics,1500,Chennai
-1039,Ivy,Backpack,Fashion,2200,Delhi
-1040,Jack,T-Shirt,Fashion,800,Pune
-1041,Mia,Keyboard,Electronics,1500,Mumbai
-1042,Olivia,Backpack,Fashion,2200,Kolkata
-1043,Henry,Water Bottle,Home,300,Kolkata
-1044,Olivia,Mouse,Electronics,700,Chennai
-1045,David,Shoes,Fashion,2500,Delhi
-1046,Noah,Mouse,Electronics,700,Delhi
-1047,Charlie,Backpack,Fashion,2200,Lucknow
-1048,Eva,Backpack,Fashion,2200,Bengaluru
-1049,David,Water Bottle,Home,300,Bengaluru
-1050,Grace,Shoes,Fashion,2500,Hyderabad
-1051,Henry,Coffee Mug,Home,350,Delhi
-1052,Bob,Shoes,Fashion,2500,Hyderabad
-1053,Ivy,Laptop,Electronics,55000,Pune
-1054,Alice,Water Bottle,Home,300,Delhi
-1055,Bob,Laptop,Electronics,55000,Kolkata
-1056,Ivy,Book,Books,450,Pune
-1057,David,T-Shirt,Fashion,800,Bengaluru
-1058,Jack,Keyboard,Electronics,1500,Lucknow
-1059,Mia,Shoes,Fashion,2500,Jaipur
-1060,Bob,Shoes,Fashion,2500,Jaipur
-1061,Grace,Book,Books,450,Lucknow
-1062,Alice,Laptop,Electronics,55000,Jaipur
-1063,David,Book,Books,450,Pune
-1064,Henry,Shoes,Fashion,2500,Mumbai
-1065,Eva,Headphones,Electronics,1800,Lucknow
-1066,Henry,Shoes,Fashion,2500,Bengaluru
-1067,Kiran,Mouse,Electronics,700,Bengaluru
-1068,Olivia,Laptop,Electronics,55000,Pune
-1069,Henry,Keyboard,Electronics,1500,Lucknow
-1070,Olivia,Shoes,Fashion,2500,Kolkata
-1071,Alice,Keyboard,Electronics,1500,Jaipur
-1072,Eva,T-Shirt,Fashion,800,Jaipur
-1073,Charlie,Backpack,Fashion,2200,Pune
-1074,Alice,T-Shirt,Fashion,800,Bengaluru
-1075,Alice,Laptop,Electronics,55000,Kolkata
-1076,Ivy,Water Bottle,Home,300,Bengaluru
-1077,Ivy,Keyboard,Electronics,1500,Delhi
-1078,Jack,Keyboard,Electronics,1500,Delhi
-1079,Bob,Shoes,Fashion,2500,Pune
-1080,Alice,Water Bottle,Home,300,Delhi
-1081,Jack,Headphones,Electronics,1800,Bengaluru
-1082,David,Book,Books,450,Hyderabad
-1083,Grace,Shoes,Fashion,2500,Mumbai
-1084,Frank,T-Shirt,Fashion,800,Delhi
-1085,Jack,Laptop,Electronics,55000,Delhi
-1086,David,Mouse,Electronics,700,Bengaluru
-1087,Olivia,T-Shirt,Fashion,800,Hyderabad
-1088,Frank,Mouse,Electronics,700,Chennai
-1089,Noah,Keyboard,Electronics,1500,Bengaluru
-1090,Mia,T-Shirt,Fashion,800,Bengaluru
-1091,Eva,Laptop,Electronics,55000,Delhi
-1092,Bob,Keyboard,Electronics,1500,Delhi
-1093,Eva,Backpack,Fashion,2200,Chennai
-1094,Liam,Water Bottle,Home,300,Hyderabad
-1095,Ivy,Shoes,Fashion,2500,Lucknow
-1096,Bob,T-Shirt,Fashion,800,Jaipur
-1097,Alice,T-Shirt,Fashion,800,Hyderabad
-1098,Charlie,Keyboard,Electronics,1500,Lucknow
-1099,Ivy,Backpack,Fashion,2200,Kolkata
-1100,Olivia,Mouse,Electronics,700,Mumbai
-1101,Noah,Backpack,Fashion,2200,Hyderabad
-1102,Charlie,Water Bottle,Home,300,Jaipur
-1103,Eva,Keyboard,Electronics,1500,Hyderabad
-1104,David,Laptop,Electronics,55000,Pune
-1105,Mia,Mouse,Electronics,700,Bengaluru
-1106,Liam,Headphones,Electronics,1800,Mumbai
-1107,Mia,Shoes,Fashion,2500,Mumbai
-1108,Charlie,Headphones,Electronics,1800,Hyderabad
-1109,Eva,Headphones,Electronics,1800,Mumbai
-1110,Noah,Mouse,Electronics,700,Kolkata
-1111,David,Coffee Mug,Home,350,Lucknow
-1112,Noah,Book,Books,450,Pune
-1113,Kiran,Shoes,Fashion,2500,Pune
-1114,Eva,Headphones,Electronics,1800,Delhi
-1115,Kiran,T-Shirt,Fashion,800,Bengaluru
-1116,Frank,Headphones,Electronics,1800,Kolkata
-1117,Charlie,Mouse,Electronics,700,Chennai
-1118,Jack,Laptop,Electronics,55000,Jaipur
-1119,Grace,Book,Books,450,Bengaluru
-1120,Olivia,Mouse,Electronics,700,Pune
-1121,Liam,T-Shirt,Fashion,800,Jaipur
-1122,Olivia,Laptop,Electronics,55000,Bengaluru
-1123,Grace,Shoes,Fashion,2500,Delhi
-1124,Frank,Book,Books,450,Delhi
-1125,Eva,T-Shirt,Fashion,800,Jaipur
-1126,Liam,Book,Books,450,Chennai
-1127,David,Backpack,Fashion,2200,Jaipur
-1128,Jack,Headphones,Electronics,1800,Chennai
-1129,Noah,Headphones,Electronics,1800,Kolkata
-1130,David,T-Shirt,Fashion,800,Jaipur
-1131,Kiran,Water Bottle,Home,300,Hyderabad
-1132,Henry,Coffee Mug,Home,350,Pune
-1133,Mia,Backpack,Fashion,2200,Mumbai
-1134,Ivy,Mouse,Electronics,700,Hyderabad
-1135,Kiran,Mouse,Electronics,700,Chennai
-1136,Charlie,Shoes,Fashion,2500,Kolkata
-1137,Henry,Laptop,Electronics,55000,Delhi
-1138,Olivia,Coffee Mug,Home,350,Pune
-1139,Grace,Headphones,Electronics,1800,Pune
-1140,Olivia,Keyboard,Electronics,1500,Delhi
-1141,Charlie,Headphones,Electronics,1800,Bengaluru
-1142,Ivy,Coffee Mug,Home,350,Pune
-1143,Charlie,Mouse,Electronics,700,Lucknow
-1144,Jack,Backpack,Fashion,2200,Hyderabad
-1145,Noah,Coffee Mug,Home,350,Bengaluru
-1146,Henry,Headphones,Electronics,1800,Mumbai
-1147,Eva,Coffee Mug,Home,350,Pune
-1148,Henry,T-Shirt,Fashion,800,Pune
-1149,Bob,T-Shirt,Fashion,800,Chennai
-1150,Frank,Shoes,Fashion,2500,Hyderabad
-1151,Charlie,Backpack,Fashion,2200,Mumbai
-1152,Liam,Shoes,Fashion,2500,Mumbai
-1153,Grace,Shoes,Fashion,2500,Jaipur
-1154,Henry,Book,Books,450,Jaipur
-1155,Noah,Laptop,Electronics,55000,Jaipur
-1156,Liam,Headphones,Electronics,1800,Kolkata
-1157,Henry,Water Bottle,Home,300,Kolkata
-1158,Mia,Book,Books,450,Jaipur
-1159,Liam,Headphones,Electronics,1800,Bengaluru
-1160,Henry,Water Bottle,Home,300,Pune
-1161,Henry,T-Shirt,Fashion,800,Kolkata
-1162,Kiran,Headphones,Electronics,1800,Jaipur
-1163,Olivia,Keyboard,Electronics,1500,Mumbai
-1164,Alice,Water Bottle,Home,300,Jaipur
-1165,Kiran,Water Bottle,Home,300,Kolkata
-1166,Charlie,Mouse,Electronics,700,Lucknow
-1167,Eva,Keyboard,Electronics,1500,Jaipur
-1168,Henry,Book,Books,450,Hyderabad
-1169,Eva,Book,Books,450,Jaipur
-1170,Henry,T-Shirt,Fashion,800,Kolkata
-1171,Frank,Backpack,Fashion,2200,Pune
-1172,Mia,Mouse,Electronics,700,Kolkata
-1173,Noah,Shoes,Fashion,2500,Kolkata
-1174,David,Water Bottle,Home,300,Mumbai
-1175,Jack,Coffee Mug,Home,350,Pune
-1176,Mia,Coffee Mug,Home,350,Hyderabad
-1177,Jack,Keyboard,Electronics,1500,Delhi
-1178,Bob,Keyboard,Electronics,1500,Kolkata
-1179,Kiran,T-Shirt,Fashion,800,Jaipur
-1180,Bob,Headphones,Electronics,1800,Pune
-1181,Noah,Mouse,Electronics,700,Delhi
-1182,Frank,Water Bottle,Home,300,Bengaluru
-1183,Bob,Headphones,Electronics,1800,Bengaluru
-1184,Noah,Book,Books,450,Jaipur
-1185,Grace,Coffee Mug,Home,350,Hyderabad
-1186,Grace,Coffee Mug,Home,350,Mumbai
-1187,Jack,Backpack,Fashion,2200,Bengaluru
-1188,Grace,Coffee Mug,Home,350,Chennai
-1189,Noah,Book,Books,450,Delhi
-1190,David,T-Shirt,Fashion,800,Lucknow
-1191,Kiran,Water Bottle,Home,300,Jaipur
-1192,Henry,Book,Books,450,Hyderabad
-1193,David,Keyboard,Electronics,1500,Hyderabad
-1194,Eva,T-Shirt,Fashion,800,Chennai
-1195,Ivy,Backpack,Fashion,2200,Pune
-1196,Liam,Mouse,Electronics,700,Jaipur
-1197,Mia,Coffee Mug,Home,350,Pune
-1198,Henry,Coffee Mug,Home,350,Kolkata
-1199,David,Mouse,Electronics,700,Jaipur
-1200,Kiran,Shoes,Fashion,2500,Hyderabad
+0,1001,Liam,Mouse,Electronics,700,Chennai
+1,1002,Charlie,Shoes,Fashion,2500,Delhi
+2,1003,Jack,Backpack,Fashion,2200,Jaipur
+3,1004,Bob,Laptop,Electronics,55000,Pune
+4,1005,Jack,Shoes,Fashion,2500,Kolkata
+5,1006,Liam,Backpack,Fashion,2200,Bengaluru
+6,1007,Henry,Headphones,Electronics,1800,Chennai
+7,1008,Liam,Laptop,Electronics,55000,Jaipur
+8,1009,Charlie,Book,Books,450,Pune
+9,1010,Bob,Book,Books,450,Jaipur
+10,1011,Noah,Mouse,Electronics,700,Hyderabad
+11,1012,Mia,Water Bottle,Home,300,Kolkata
+12,1013,Bob,Coffee Mug,Home,350,Jaipur
+13,1014,Eva,Mouse,Electronics,700,Hyderabad
+14,1015,Liam,Water Bottle,Home,300,Delhi
+15,1016,Mia,Laptop,Electronics,55000,Chennai
+16,1017,Noah,Mouse,Electronics,700,Delhi
+17,1018,Henry,Headphones,Electronics,1800,Hyderabad
+18,1019,Frank,Keyboard,Electronics,1500,Pune
+19,1020,Jack,T-Shirt,Fashion,800,Mumbai
+20,1021,Charlie,Backpack,Fashion,2200,Lucknow
+21,1022,Olivia,Headphones,Electronics,1800,Bengaluru
+22,1023,Noah,Shoes,Fashion,2500,Kolkata
+23,1024,Mia,Shoes,Fashion,2500,Hyderabad
+24,1025,Bob,Headphones,Electronics,1800,Pune
+25,1026,David,Water Bottle,Home,300,Lucknow
+26,1027,Charlie,Headphones,Electronics,1800,Chennai
+27,1028,Liam,Keyboard,Electronics,1500,Bengaluru
+28,1029,Liam,Backpack,Fashion,2200,Jaipur
+29,1030,Frank,Water Bottle,Home,300,Pune
+30,1031,Henry,Keyboard,Electronics,1500,Delhi
+31,1032,Charlie,Laptop,Electronics,55000,Mumbai
+32,1033,Bob,Headphones,Electronics,1800,Jaipur
+33,1034,Henry,Headphones,Electronics,1800,Bengaluru
+34,1035,Noah,T-Shirt,Fashion,800,Kolkata
+35,1036,Mia,Mouse,Electronics,700,Chennai
+36,1037,Eva,Book,Books,450,Jaipur
+37,1038,Alice,Keyboard,Electronics,1500,Chennai
+38,1039,Ivy,Backpack,Fashion,2200,Delhi
+39,1040,Jack,T-Shirt,Fashion,800,Pune
+40,1041,Mia,Keyboard,Electronics,1500,Mumbai
+41,1042,Olivia,Backpack,Fashion,2200,Kolkata
+42,1043,Henry,Water Bottle,Home,300,Kolkata
+43,1044,Olivia,Mouse,Electronics,700,Chennai
+44,1045,David,Shoes,Fashion,2500,Delhi
+45,1046,Noah,Mouse,Electronics,700,Delhi
+46,1047,Charlie,Backpack,Fashion,2200,Lucknow
+47,1048,Eva,Backpack,Fashion,2200,Bengaluru
+48,1049,David,Water Bottle,Home,300,Bengaluru
+49,1050,Grace,Shoes,Fashion,2500,Hyderabad
+50,1051,Henry,Coffee Mug,Home,350,Delhi
+51,1052,Bob,Shoes,Fashion,2500,Hyderabad
+52,1053,Ivy,Laptop,Electronics,55000,Pune
+53,1054,Alice,Water Bottle,Home,300,Delhi
+54,1055,Bob,Laptop,Electronics,55000,Kolkata
+55,1056,Ivy,Book,Books,450,Pune
+56,1057,David,T-Shirt,Fashion,800,Bengaluru
+57,1058,Jack,Keyboard,Electronics,1500,Lucknow
+58,1059,Mia,Shoes,Fashion,2500,Jaipur
+59,1060,Bob,Shoes,Fashion,2500,Jaipur
+60,1061,Grace,Book,Books,450,Lucknow
+61,1062,Alice,Laptop,Electronics,55000,Jaipur
+62,1063,David,Book,Books,450,Pune
+63,1064,Henry,Shoes,Fashion,2500,Mumbai
+64,1065,Eva,Headphones,Electronics,1800,Lucknow
+65,1066,Henry,Shoes,Fashion,2500,Bengaluru
+66,1067,Kiran,Mouse,Electronics,700,Bengaluru
+67,1068,Olivia,Laptop,Electronics,55000,Pune
+68,1069,Henry,Keyboard,Electronics,1500,Lucknow
+69,1070,Olivia,Shoes,Fashion,2500,Kolkata
+70,1071,Alice,Keyboard,Electronics,1500,Jaipur
+71,1072,Eva,T-Shirt,Fashion,800,Jaipur
+72,1073,Charlie,Backpack,Fashion,2200,Pune
+73,1074,Alice,T-Shirt,Fashion,800,Bengaluru
+74,1075,Alice,Laptop,Electronics,55000,Kolkata
+75,1076,Ivy,Water Bottle,Home,300,Bengaluru
+76,1077,Ivy,Keyboard,Electronics,1500,Delhi
+77,1078,Jack,Keyboard,Electronics,1500,Delhi
+78,1079,Bob,Shoes,Fashion,2500,Pune
+79,1080,Alice,Water Bottle,Home,300,Delhi
+80,1081,Jack,Headphones,Electronics,1800,Bengaluru
+81,1082,David,Book,Books,450,Hyderabad
+82,1083,Grace,Shoes,Fashion,2500,Mumbai
+83,1084,Frank,T-Shirt,Fashion,800,Delhi
+84,1085,Jack,Laptop,Electronics,55000,Delhi
+85,1086,David,Mouse,Electronics,700,Bengaluru
+86,1087,Olivia,T-Shirt,Fashion,800,Hyderabad
+87,1088,Frank,Mouse,Electronics,700,Chennai
+88,1089,Noah,Keyboard,Electronics,1500,Bengaluru
+89,1090,Mia,T-Shirt,Fashion,800,Bengaluru
+90,1091,Eva,Laptop,Electronics,55000,Delhi
+91,1092,Bob,Keyboard,Electronics,1500,Delhi
+92,1093,Eva,Backpack,Fashion,2200,Chennai
+93,1094,Liam,Water Bottle,Home,300,Hyderabad
+94,1095,Ivy,Shoes,Fashion,2500,Lucknow
+95,1096,Bob,T-Shirt,Fashion,800,Jaipur
+96,1097,Alice,T-Shirt,Fashion,800,Hyderabad
+97,1098,Charlie,Keyboard,Electronics,1500,Lucknow
+98,1099,Ivy,Backpack,Fashion,2200,Kolkata
+99,1100,Olivia,Mouse,Electronics,700,Mumbai
+100,1101,Noah,Backpack,Fashion,2200,Hyderabad
+101,1102,Charlie,Water Bottle,Home,300,Jaipur
+102,1103,Eva,Keyboard,Electronics,1500,Hyderabad
+103,1104,David,Laptop,Electronics,55000,Pune
+104,1105,Mia,Mouse,Electronics,700,Bengaluru
+105,1106,Liam,Headphones,Electronics,1800,Mumbai
+106,1107,Mia,Shoes,Fashion,2500,Mumbai
+107,1108,Charlie,Headphones,Electronics,1800,Hyderabad
+108,1109,Eva,Headphones,Electronics,1800,Mumbai
+109,1110,Noah,Mouse,Electronics,700,Kolkata
+110,1111,David,Coffee Mug,Home,350,Lucknow
+111,1112,Noah,Book,Books,450,Pune
+112,1113,Kiran,Shoes,Fashion,2500,Pune
+113,1114,Eva,Headphones,Electronics,1800,Delhi
+114,1115,Kiran,T-Shirt,Fashion,800,Bengaluru
+115,1116,Frank,Headphones,Electronics,1800,Kolkata
+116,1117,Charlie,Mouse,Electronics,700,Chennai
+117,1118,Jack,Laptop,Electronics,55000,Jaipur
+118,1119,Grace,Book,Books,450,Bengaluru
+119,1120,Olivia,Mouse,Electronics,700,Pune
+120,1121,Liam,T-Shirt,Fashion,800,Jaipur
+121,1122,Olivia,Laptop,Electronics,55000,Bengaluru
+122,1123,Grace,Shoes,Fashion,2500,Delhi
+123,1124,Frank,Book,Books,450,Delhi
+124,1125,Eva,T-Shirt,Fashion,800,Jaipur
+125,1126,Liam,Book,Books,450,Chennai
+126,1127,David,Backpack,Fashion,2200,Jaipur
+127,1128,Jack,Headphones,Electronics,1800,Chennai
+128,1129,Noah,Headphones,Electronics,1800,Kolkata
+129,1130,David,T-Shirt,Fashion,800,Jaipur
+130,1131,Kiran,Water Bottle,Home,300,Hyderabad
+131,1132,Henry,Coffee Mug,Home,350,Pune
+132,1133,Mia,Backpack,Fashion,2200,Mumbai
+133,1134,Ivy,Mouse,Electronics,700,Hyderabad
+134,1135,Kiran,Mouse,Electronics,700,Chennai
+135,1136,Charlie,Shoes,Fashion,2500,Kolkata
+136,1137,Henry,Laptop,Electronics,55000,Delhi
+137,1138,Olivia,Coffee Mug,Home,350,Pune
+138,1139,Grace,Headphones,Electronics,1800,Pune
+139,1140,Olivia,Keyboard,Electronics,1500,Delhi
+140,1141,Charlie,Headphones,Electronics,1800,Bengaluru
+141,1142,Ivy,Coffee Mug,Home,350,Pune
+142,1143,Charlie,Mouse,Electronics,700,Lucknow
+143,1144,Jack,Backpack,Fashion,2200,Hyderabad
+144,1145,Noah,Coffee Mug,Home,350,Bengaluru
+145,1146,Henry,Headphones,Electronics,1800,Mumbai
+146,1147,Eva,Coffee Mug,Home,350,Pune
+147,1148,Henry,T-Shirt,Fashion,800,Pune
+148,1149,Bob,T-Shirt,Fashion,800,Chennai
+149,1150,Frank,Shoes,Fashion,2500,Hyderabad
+150,1151,Charlie,Backpack,Fashion,2200,Mumbai
+151,1152,Liam,Shoes,Fashion,2500,Mumbai
+152,1153,Grace,Shoes,Fashion,2500,Jaipur
+153,1154,Henry,Book,Books,450,Jaipur
+154,1155,Noah,Laptop,Electronics,55000,Jaipur
+155,1156,Liam,Headphones,Electronics,1800,Kolkata
+156,1157,Henry,Water Bottle,Home,300,Kolkata
+157,1158,Mia,Book,Books,450,Jaipur
+158,1159,Liam,Headphones,Electronics,1800,Bengaluru
+159,1160,Henry,Water Bottle,Home,300,Pune
+160,1161,Henry,T-Shirt,Fashion,800,Kolkata
+161,1162,Kiran,Headphones,Electronics,1800,Jaipur
+162,1163,Olivia,Keyboard,Electronics,1500,Mumbai
+163,1164,Alice,Water Bottle,Home,300,Jaipur
+164,1165,Kiran,Water Bottle,Home,300,Kolkata
+165,1166,Charlie,Mouse,Electronics,700,Lucknow
+166,1167,Eva,Keyboard,Electronics,1500,Jaipur
+167,1168,Henry,Book,Books,450,Hyderabad
+168,1169,Eva,Book,Books,450,Jaipur
+169,1170,Henry,T-Shirt,Fashion,800,Kolkata
+170,1171,Frank,Backpack,Fashion,2200,Pune
+171,1172,Mia,Mouse,Electronics,700,Kolkata
+172,1173,Noah,Shoes,Fashion,2500,Kolkata
+173,1174,David,Water Bottle,Home,300,Mumbai
+174,1175,Jack,Coffee Mug,Home,350,Pune
+175,1176,Mia,Coffee Mug,Home,350,Hyderabad
+176,1177,Jack,Keyboard,Electronics,1500,Delhi
+177,1178,Bob,Keyboard,Electronics,1500,Kolkata
+178,1179,Kiran,T-Shirt,Fashion,800,Jaipur
+179,1180,Bob,Headphones,Electronics,1800,Pune
+180,1181,Noah,Mouse,Electronics,700,Delhi
+181,1182,Frank,Water Bottle,Home,300,Bengaluru
+182,1183,Bob,Headphones,Electronics,1800,Bengaluru
+183,1184,Noah,Book,Books,450,Jaipur
+184,1185,Grace,Coffee Mug,Home,350,Hyderabad
+185,1186,Grace,Coffee Mug,Home,350,Mumbai
+186,1187,Jack,Backpack,Fashion,2200,Bengaluru
+187,1188,Grace,Coffee Mug,Home,350,Chennai
+188,1189,Noah,Book,Books,450,Delhi
+189,1190,David,T-Shirt,Fashion,800,Lucknow
+190,1191,Kiran,Water Bottle,Home,300,Jaipur
+191,1192,Henry,Book,Books,450,Hyderabad
+192,1193,David,Keyboard,Electronics,1500,Hyderabad
+193,1194,Eva,T-Shirt,Fashion,800,Chennai
+194,1195,Ivy,Backpack,Fashion,2200,Pune
+195,1196,Liam,Mouse,Electronics,700,Jaipur
+196,1197,Mia,Coffee Mug,Home,350,Pune
+197,1198,Henry,Coffee Mug,Home,350,Kolkata
+198,1199,David,Mouse,Electronics,700,Jaipur
+199,1200,Kiran,Shoes,Fashion,2500,Hyderabad
