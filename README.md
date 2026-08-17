@@ -12,7 +12,7 @@ This repository is a structured collection of my learning, practice, and project
 
 * Python Programming
 * Data Analysis (Pandas, NumPy)
-* Data Visualization (Matplotlib, Seaborn)
+* Data Visualization (Matplotlib)
 * Statistics & Probability
 * Machine Learning
 * Data Cleaning & Preprocessing
